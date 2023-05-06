@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "sample-command-extension.helloWorld",
-        "title": "Hello World"
+        "command": "extension.sampleCommand",
+        "title": "Sample Command"
       }
     ]
   },
